@@ -1,12 +1,16 @@
-#<h1 align="center">Hi 👋, I'm Bernardo !</h1>
+#<h1 align="center">Hi 👋, I'm Bernardo	🧔🏻 !</h1>
 
 <h3 align="center">A passionate Web Developer from Argentina</h3>
-<p align="right"><img src="https://user-images.githubusercontent.com/73174174/99049264-67ee3d80-2575-11eb-980a-9921498c94a0.png" width="100" height="120"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/73174174/99049264-67ee3d80-2575-11eb-980a-9921498c94a0.png" width="100" height="120"></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zelayab&label=Profile%20views&color=0e75b6&style=flat" alt="zelayab" /></p>
 
 - 🌱 I’m currently learning **Html,Css,JavaScript,React, MERN**
+
+- 📫 How to reach me **bernardo_zelaya@hotmail.com**
+
+- ⚡ Fun fact **love videogames,movies and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
