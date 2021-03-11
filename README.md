@@ -40,24 +40,23 @@
   </a>
   
   <a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="" width="40" height="40"/>
   </a> 
 
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="" width="40" height="40"/> 
   </a> 
   
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="" width="40" height="40"/> 
   </a>
   
   <a href="https://www.photoshop.com/en" target="_blank"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40"                height="40"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="" width="40"                height="40"/> 
   </a> 
   
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="" width="40" height="40"/> 
   </a> 
   </p>
 
