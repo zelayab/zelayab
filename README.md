@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zelayab&label=Profile%20views&color=0e75b6&style=flat" alt="zelayab" /></p>
 
-- 🌱 I’m currently learning **Html,Css,JavaScript,React, MERN**
+- 🌱 I’m currently learning **Html,Css,JavaScript,React, MERN and Angular**
 
 - 📫 How to reach me **bernardo_zelaya@hotmail.com**
 
