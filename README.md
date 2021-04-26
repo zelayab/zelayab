@@ -58,6 +58,9 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="" width="40" height="40"/> 
   </a> 
+   <a href="https://angular.io" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="" width="40" height="40"/> 
+  </a> 
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zelayab&show_icons=true&locale=en&layout=compact" alt="zelayab" /></p>
