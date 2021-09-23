@@ -30,10 +30,6 @@
 </h3>
 
 <p align="left">
-  
-  <a href="" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="" width="40" height="40">
-  </a>
     
   <a href="https://www.figma.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="" width="40" height="40"/> 
