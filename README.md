@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zelayab&label=Profile%20views&color=0e75b6&style=flat" alt="zelayab" /></p>
 
-- 📫 Currently I'm working with Angular and VueJS and I want to grow up in my FrontEnd Roadmap. 
+- 📫 Currently I'm working with Angular and VueJS and I want to grow up in my FrontEnd Roadmap, also I Using SAP SPARTACUS and SAP HYBRIS 
 - 🌱 I’m learning and improve **React,Angular and VueJs** - also I'm starting to learn **Python and MySql**
 
 - 📫 How to reach me **bernardo_zelaya@hotmail.com**
